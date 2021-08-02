@@ -38,7 +38,7 @@ This directory contains the L3GD20H component drivers.
 
 ### First release
 
-- First official release
+- First official release [ref. DS v2.0]
 
 ##
 
